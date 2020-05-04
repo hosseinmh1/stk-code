@@ -3,6 +3,7 @@
 # This file is distributed under the same license as the supertuxkart package.
 # 
 # Translators:
+# Hossein Mohseni <mohsenihossein@protonmail.com>, 2020
 # Ahmad Haghighi <haghighi@fedoraproject.org>, 2019
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2011
 msgid ""
@@ -25,15 +26,15 @@ msgstr "کریستف کلمب"
 
 #. I18N: ./data/achievements.xml
 msgid "Play every official track at least once."
-msgstr ""
+msgstr "هر زمین رسمی را حداقل یک بار بازی کنید"
 
 #. I18N: ./data/achievements.xml
 msgid "Strike!"
-msgstr ""
+msgstr "ضربه!"
 
 #. I18N: ./data/achievements.xml
 msgid "Hit 10 karts with a bowling-ball."
-msgstr ""
+msgstr "به 10 ماشین با توپ بولینگ ضربه بزنید"
 
 #. I18N: ./data/achievements.xml
 msgid "Arch Enemy"
@@ -41,7 +42,7 @@ msgstr ""
 
 #. I18N: ./data/achievements.xml
 msgid "Hit the same kart at least 5 times in one race."
-msgstr ""
+msgstr "حداقل 5 بار در یک مسابقه به همان ماشین ضربه بزنید."
 
 #. I18N: ./data/achievements.xml
 msgid "Marathoner"
@@ -97,11 +98,11 @@ msgstr ""
 
 #. I18N: ./data/achievements.xml
 msgid "It's secret"
-msgstr ""
+msgstr "این یه رازه!"
 
 #. I18N: ./data/achievements.xml
 msgid "Really ... a secret."
-msgstr ""
+msgstr "واقعا ... یه رازه"
 
 #. I18N: ./data/achievements.xml
 msgid "Mosquito Hunter"
@@ -147,7 +148,7 @@ msgstr "نصب"
 #. I18N: ./data/gui/dialogs/addons_loading.stkgui
 #. I18N: Add-on screen action
 msgid "Uninstall"
-msgstr ""
+msgstr "حذف نصب"
 
 #. I18N: ./data/gui/dialogs/addons_loading.stkgui
 #. I18N: Add-on screen action
@@ -201,7 +202,7 @@ msgstr ""
 #. I18N: ./data/gui/dialogs/custom_video_settings.stkgui
 #. I18N: ./data/gui/dialogs/kart_color_slider.stkgui
 msgid "Apply"
-msgstr ""
+msgstr "اعمال کردن"
 
 #. I18N: ./data/gui/dialogs/android/multitouch_settings.stkgui
 msgid "Touch Device Settings"
@@ -265,7 +266,7 @@ msgstr "پیشرفته"
 #. I18N: ./data/gui/dialogs/android/multitouch_settings.stkgui
 #. I18N: In the multitouch settings screen
 msgid "Deadzone"
-msgstr ""
+msgstr "منطقه مرده"
 
 #. I18N: ./data/gui/dialogs/android/multitouch_settings.stkgui
 #. I18N: In the multitouch settings screen
@@ -320,13 +321,13 @@ msgstr "آری"
 #: src/states_screens/online/register_screen.cpp:131
 #: src/states_screens/options/user_screen.cpp:128
 msgid "Cancel"
-msgstr ""
+msgstr "لغو"
 
 #. I18N: ./data/gui/dialogs/confirm_resolution_dialog.stkgui
 #. I18N: In the 'confirm resolution' dialog, that's shown when switching
 #. resoluton
 msgid "Keep this resolution"
-msgstr ""
+msgstr "وضوح اعمال شده را حفظ کن"
 
 #. I18N: ./data/gui/dialogs/custom_video_settings.stkgui
 msgid "Graphics Settings"
@@ -340,7 +341,7 @@ msgstr ""
 #. I18N: ./data/gui/dialogs/custom_video_settings.stkgui
 #. I18N: Video settings
 msgid "Shadows"
-msgstr ""
+msgstr "سایه ها"
 
 #. I18N: ./data/gui/dialogs/custom_video_settings.stkgui
 #. I18N: Video settings
@@ -415,7 +416,7 @@ msgstr ""
 #. I18N: ./data/gui/dialogs/custom_video_settings.stkgui
 #. I18N: Video settings
 msgid "* Restart STK to apply new settings"
-msgstr ""
+msgstr "بازی STK را برای اعمال تنظیمات جدید مجددا باز کنید."
 
 #. I18N: ./data/gui/dialogs/general_text_field_dialog.stkgui
 #. I18N: In the general textfield dialog
@@ -460,7 +461,7 @@ msgstr ""
 #. I18N: ./data/gui/screens/track_info.stkgui
 #. I18N: In the track info screen
 msgid "Start Race"
-msgstr ""
+msgstr "شروع مسابقه"
 
 #. I18N: ./data/gui/dialogs/ghost_replay_info_dialog.stkgui
 #. I18N: Ghost replay info screen action
@@ -476,12 +477,12 @@ msgstr ""
 #. I18N: ./data/gui/screens/grand_prix_editor.stkgui
 #. I18N: Menu item
 msgid "Remove"
-msgstr ""
+msgstr "حذف"
 
 #. I18N: ./data/gui/dialogs/online/achievement_progress_dialog.stkgui
 #. I18N: Objective shown in achievement dialog
 msgid "Goal"
-msgstr ""
+msgstr "گللل! توی دروازه!"
 
 #. I18N: ./data/gui/dialogs/online/achievement_progress_dialog.stkgui
 #. I18N: Progress shown in achievement dialog
@@ -493,7 +494,7 @@ msgstr ""
 #. I18N: ./data/gui/dialogs/online/change_password.stkgui
 #. I18N: In the change password dialog
 msgid "Password Change"
-msgstr ""
+msgstr "تغییر گذرواژه"
 
 #. I18N: ./data/gui/dialogs/online/change_password.stkgui
 #. I18N: In the change password dialog
@@ -568,7 +569,7 @@ msgstr ""
 #. I18N: ./data/gui/screens/main_menu.stkgui
 #. I18N: In the main screen
 msgid "Options"
-msgstr ""
+msgstr "گزینه ها"
 
 #. I18N: ./data/gui/dialogs/online/network_ingame_dialog.stkgui
 #. I18N: Race paused button
@@ -579,14 +580,14 @@ msgstr ""
 #. I18N: ./data/gui/screens/main_menu.stkgui
 #. I18N: In the main screen
 msgid "Help"
-msgstr ""
+msgstr "کمک"
 
 #. I18N: ./data/gui/dialogs/online/network_ingame_dialog.stkgui
 #. I18N: Race paused button
 #. I18N: ./data/gui/dialogs/race_paused_dialog.stkgui
 #. I18N: Race paused button
 msgid "Exit Race"
-msgstr ""
+msgstr "خروج از مسابقه"
 
 #. I18N: ./data/gui/dialogs/online/notification_dialog.stkgui
 #. I18N: User info dialog
@@ -598,7 +599,7 @@ msgstr ""
 #. I18N: ./data/gui/dialogs/online/player_rankings_dialog.stkgui
 #. I18N: In player rankings dialog
 msgid "Top 10 players"
-msgstr ""
+msgstr "ده بازیکن برتر"
 
 #. I18N: ./data/gui/dialogs/online/player_rankings_dialog.stkgui
 msgid "Refresh"
@@ -609,7 +610,7 @@ msgstr ""
 #. I18N: ./data/gui/dialogs/online/recovery_input.stkgui
 #. I18N: In the recovery dialog
 msgid "Account Recovery"
-msgstr ""
+msgstr "بازیابی حساب"
 
 #. I18N: ./data/gui/dialogs/online/recovery_info.stkgui
 #. I18N: In the recovery dialog
@@ -633,7 +634,7 @@ msgstr ""
 #: src/states_screens/online/online_profile_friends.cpp:72
 #: src/states_screens/online/online_user_search.cpp:71
 msgid "Username"
-msgstr ""
+msgstr "شناسه کاربری"
 
 #. I18N: ./data/gui/dialogs/online/recovery_input.stkgui
 #. I18N: In the recovery dialog
@@ -645,19 +646,19 @@ msgstr "ایمیل"
 #. I18N: ./data/gui/dialogs/online/registration_terms.stkgui
 #. I18N: In the registration dialog
 msgid "Terms and Agreement"
-msgstr ""
+msgstr "شرایط و توافق نامه"
 
 #. I18N: ./data/gui/dialogs/online/registration_terms.stkgui
 #. I18N: In the registration dialog
 msgid "I agree to the above terms and am 13 years or older. "
-msgstr ""
+msgstr "13 سال به بالا سن دارم."
 
 #. I18N: ./data/gui/dialogs/online/registration_terms.stkgui
 #. I18N: In the registration dialog
 #. I18N: ./data/gui/dialogs/online/user_info_dialog.stkgui
 #. I18N: User info dialog
 msgid "Accept"
-msgstr ""
+msgstr "تایید"
 
 #. I18N: ./data/gui/dialogs/online/server_configuration_dialog.stkgui
 #. I18N: In the server configuration screen
@@ -669,7 +670,7 @@ msgstr "پیکربندی کارساز"
 #. I18N: ./data/gui/screens/online/create_server.stkgui
 #. I18N: In the server creation screen
 msgid "Difficulty"
-msgstr ""
+msgstr "دشواری"
 
 #. I18N: ./data/gui/dialogs/online/server_configuration_dialog.stkgui
 #. I18N: Difficulty
@@ -693,7 +694,7 @@ msgstr ""
 #. I18N: Difficulty
 #: src/race/race_manager.cpp:1214
 msgid "Intermediate"
-msgstr ""
+msgstr "میانه"
 
 #. I18N: ./data/gui/dialogs/online/server_configuration_dialog.stkgui
 #. I18N: Difficulty
@@ -705,7 +706,7 @@ msgstr ""
 #. I18N: Difficulty
 #: src/race/race_manager.cpp:1215
 msgid "Expert"
-msgstr ""
+msgstr "حرفه ای"
 
 #. I18N: ./data/gui/dialogs/online/server_configuration_dialog.stkgui
 #. I18N: Difficulty
@@ -717,7 +718,7 @@ msgstr ""
 #. I18N: Difficulty
 #: src/race/race_manager.cpp:1216
 msgid "SuperTux"
-msgstr ""
+msgstr "سوپرتاکس"
 
 #. I18N: ./data/gui/dialogs/online/server_configuration_dialog.stkgui
 #. I18N: In the server configuration screen
@@ -725,7 +726,7 @@ msgstr ""
 #. I18N: In the server creation screen
 #: src/states_screens/track_info_screen.cpp:253
 msgid "Game mode"
-msgstr ""
+msgstr "حالت بازی"
 
 #. I18N: ./data/gui/dialogs/online/server_configuration_dialog.stkgui
 #. I18N: Multiplayer game mode
@@ -734,7 +735,7 @@ msgstr ""
 #. I18N: Game mode
 #: src/network/server_config.cpp:266 src/race/race_manager.cpp:1188
 msgid "Normal Race"
-msgstr ""
+msgstr "مسابقه عادی"
 
 #. I18N: ./data/gui/dialogs/online/server_configuration_dialog.stkgui
 #. I18N: Multiplayer game mode
